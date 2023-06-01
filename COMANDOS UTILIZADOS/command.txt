@@ -1,0 +1,26 @@
+  323  cd Hobbies
+  324  touch 1.txt 2.txt 3.txt
+  325  cp * ../Comidas\ Preferidas
+  326  cp * ../Programas\ de\ TV\ Favoritos
+  327  cd..
+  328  cd ..
+  329  cd COMANDOS\ UTILIZADOS
+  330  touch command.txt
+  331  cd ..
+  332  ls
+  333  git init
+  334  git status
+  335  git add .
+  336  git commit -m "Commit 1 de OjedaFernanda"
+  337  git log --oneline
+  338  git remote add origin https://github.com/feroh/Examen-Intro-c1-3105.git
+  339  git status
+  340  git push origin main
+  341  git status
+  342  git remote -v
+  343  git branch hotfix
+  344  git branch
+  345  git swith hotfix
+  346  git switch hotfix
+  347  git branch
+  348  history
